@@ -52,11 +52,11 @@ Building modern, scalable and high-performance web applications using
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/rubel9226">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://facebook.com/md.rubel.hossen.955098">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
@@ -64,7 +64,7 @@ Building modern, scalable and high-performance web applications using
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mdrubelhossen9226@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -116,11 +116,10 @@ Building modern, scalable and high-performance web applications using
 
 | Project | Tech Stack |
 |----------|------------|
-| 🎮 Betting Platform | Next.js • Express • PostgreSQL |
 | 🛒 E-Commerce | MERN Stack |
-| 💼 Admin Dashboard | React • Node.js |
+| 💼 Admin Dashboard | React • Node.js • Express.js |
 | 📚 Learning Management System | Next.js |
-| 🏥 Doctor Appointment | Better Auth • Next.js |
+| 🏥 Learn Life Lessons | Better Auth • Next.js • Express.js • MongoDb |
 
 ---
 
